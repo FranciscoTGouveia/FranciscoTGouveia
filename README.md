@@ -1,10 +1,10 @@
 <div align="center">
  
- 🔭 Currently finishing my Bachelor's in Computer Science
+ 🔭 Currently pursuing my Master's in Computer Science
  
- 🌱 Currently learning how to decompile C code with IDA
+ 🌱 Currently learning how loop unrolling really works under the hood
  
- 💬 Ask me about about anything, especially Graph Theory and Algorithms
+ 💬 Ask me about about anything, especially Algorithms and Data Structures
 
 </div>
 
